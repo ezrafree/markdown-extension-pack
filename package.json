@@ -2,7 +2,7 @@
     "name": "markdown-extension-pack",
     "displayName": "Markdown Extension Pack",
     "description": "Popular Visual Studio Code extensions for Markdown",
-    "version": "0.7.0",
+    "version": "0.7.1",
     "publisher": "bat67",
     "icon": "icon.jpg",
     "engines": {
@@ -10,30 +10,30 @@
     },
     "galleryBanner": {
         "color": "#333333",
-		"theme": "dark"
+        "theme": "dark"
     },
     "keywords": [
         "markdown",
-		"markdownlint",
+        "markdownlint",
         "LaTex",
         "linter",
-		"extension pack"
-	],
+        "extension pack"
+    ],
     "categories": [
         "Extension Packs"
     ],
     "license": "SEE LICENSE IN LICENSE.md",
     "repository": {
-		"type": "git",
-		"url": "https://github.com/bat67/markdown-extension-pack"
-	},
-	"homepage": "https://github.com/bat67/markdown-extension-pack",
-	"bugs": {
+        "type": "git",
+        "url": "https://github.com/bat67/markdown-extension-pack"
+    },
+    "homepage": "https://github.com/bat67/markdown-extension-pack",
+    "bugs": {
         "url": "https://github.com/bat67/markdown-extension-pack/issues"
     },
-    "extensionDependencies": [ 
+    "extensionDependencies": [
         "yzhang.markdown-all-in-one",
-        "DavidAnson.vscode-markdownlint", 
+        "DavidAnson.vscode-markdownlint",
         "goessner.mdmath",
         "shd101wyy.markdown-preview-enhanced",
         "yzane.markdown-pdf",
@@ -47,6 +47,7 @@
         "telesoho.vscode-markdown-paste-image",
         "mdickin.markdown-shortcuts",
         "csholmq.excel-to-markdown-table",
-        "moshfeu.vscode-medium-to-markdown"
+        "moshfeu.vscode-medium-to-markdown",
+        "ezrafree.vscode-markdown-preview"
     ]
 }
